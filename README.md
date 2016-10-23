@@ -1,4 +1,4 @@
-## koageneratoe
+## koagenerator
 --------
 
 基于koa的一个Nodejs Scaffold.
